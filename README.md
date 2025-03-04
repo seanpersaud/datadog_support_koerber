@@ -4,4 +4,4 @@ Hi team, please see file *jboss_indented.yaml* in this repository, please copy i
 You will need to update the password information in the file.
 
 
-Once the file is in the correct directory, please restart your agent with the command sudo systemctl restart datadog-agent, from there navigate to the Datadog UI and see if you're able to receive metrics from your jboss instance.
+Once the file is in the correct directory, please restart your agent with the command sudo systemctl restart datadog-agent, from there navigate to the Datadog UI and see if you're able to receive metrics from your jboss instance
